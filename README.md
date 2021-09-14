@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Currently working at [Repsol](https://www.repsol.com/en/index.cshtml) as IT Engineer. I love spend time reading and learning about new technologies.
+My main developer interests are related to web development and problems solving. Some of my main programming skills are based on microservices and RESTful APIs by using technologies like Node.js, Docker, Kubernetes and so on.
+- 📫 You can follow me at [Twitter](https://twitter.com/feserafim) or [LinkedIn](https://www.linkedin.com/in/feserafim).
+- 🏫 BSc degree (2015) in Computer Science. MSc degree (2016) in Software Engineering. Universidad de Sevilla.
+
 <!--
 **fevisera/fevisera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
