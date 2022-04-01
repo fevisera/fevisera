@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there! 👋
 
-Currently working at [Repsol](https://www.repsol.com/en/index.cshtml) as IT Engineer. I love spend time reading and learning about new technologies.
-My main developer interests are related to web development and problems solving. Some of my main programming skills are based on microservices and RESTful APIs by using technologies like Node.js, Docker, Kubernetes and so on.
-- 🔭 I work at a Repsol's Industrial Complex sited at Puertollano, focus in system administration and the implementation and management of digital projects.
+- 🧑‍💻 I recently joined @vmware as Member of Technical Staff.
+- 🌱 I love to spend time reading and learning new things about technologies. 
+- 🔭 My main developer interests are related to cloud, microservices, web development and so on...
 - 🏫 BSc degree (2015) in Computer Science. MSc degree (2016) in Software Engineering. Universidad de Sevilla.
 - 📫 You can follow me at [Twitter](https://twitter.com/feserafim) or [LinkedIn](https://www.linkedin.com/in/feserafim).
 
